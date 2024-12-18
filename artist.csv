@@ -1,0 +1,526 @@
+"","name","genre","age","artistid"
+"1","The Horrors","Classical",57,1
+"2","Branko","Rock",44,2
+"3","Trinta & Um","Rap",30,3
+"4","Backflip","Jazz",36,4
+"5","Dimension","Rock",63,5
+"6","Dr. Bifes & Os Psicopratas","Rap",57,6
+"7","Marco Paulo","Rap",53,7
+"8","Carminho","Classical",55,8
+"9","Marisa Monte","Rock",61,9
+"10","Ducking Punches","Country",31,10
+"11","We Bless this Mess","Reggae",59,11
+"12","Forest Swords","Country",60,12
+"13","UB40 Feat. Ali Campbell","Country",43,13
+"14","Vodafone Mexefest","Blues",57,14
+"15","Cigarettes After Sex","Metal",50,15
+"16","Liars","Classical",36,16
+"17","Childhood","Pop",23,17
+"18","Sevdaliza","Blues",40,18
+"19","Mahalia","Classical",29,19
+"20","CJ Fly","Country",23,20
+"21","Statik Selektah","Country",27,21
+"22","Julia Holter","Electronic",59,22
+"23","Everything Everything","Classical",20,23
+"24","Eva Rapdiva","Classical",23,24
+"25","Karlon","Reggae",36,25
+"26","Paulo Bragana","Jazz",46,26
+"27","Halloween","Blues",53,27
+"28","Lus Severo","Reggae",26,28
+"29","Panado","Classical",25,29
+"30","Luca Argel","Classical",41,30
+"31","O Gajo","Blues",40,31
+"32","Conjunto Corona","Country",50,32
+"33","Iguana Garcia","Hip-Hop",39,33
+"34","Vaiapraia e as Rainhas do Baile","Rap",66,34
+"35","Hema","Metal",67,35
+"36","Moullinex","Country",56,36
+"37","DJ Slimcutz","Electronic",51,37
+"38","Sopa de Pedra","Rap",18,38
+"39","Benjamim e Barnaby Keen","Rap",47,39
+"40","Aldous Harding","Classical",38,40
+"41","Manuel Joo Vieira","Metal",70,41
+"42","Epica","Metal",31,42
+"43","VUUR","Country",64,43
+"44","Myrath","Metal",18,44
+"45","Father John Misty","Blues",22,45
+"46","Weyes Blood","Electronic",26,46
+"47","Tift Merritt","Classical",41,47
+"48","Tito Paris","Rock",57,48
+"49","Spoon","Pop",49,49
+"50","Husky Loops","Metal",37,50
+"51","Fast Eddie Nelson","Electronic",37,51
+"52","The Government","Rap",41,52
+"53","Micah P. Hinson","Blues",58,53
+"54","Dying Fetus","Pop",64,54
+"55","Psycroptic","Blues",60,55
+"56","Beyond Creation","Blues",60,56
+"57","Disentomb","Rock",52,57
+"58","TOKiMONSTA","Hip-Hop",24,58
+"59","Benjamin Francis Leftwich","Metal",59,59
+"60","The Parkinsons","Reggae",18,60
+"61","Jarboe","Metal",21,61
+"62","The Musical Box","Pop",46,62
+"63","Sam Alone & The Gravediggers","Rock",33,63
+"64","Jackie D.","Hip-Hop",32,64
+"65","Infected Fest 17","Classical",55,65
+"66","Homem em Catarse","Blues",54,66
+"67","Moonspell","Jazz",34,67
+"68","Stu Larsen","Rock",61,68
+"69","And So I Watch You from Afar","Rock",32,69
+"70","Alter Bridge","Blues",24,70
+"71","Mark Eitzel","Electronic",32,71
+"72","Royal Blood","Blues",33,72
+"73","Black Honey","Rock",68,73
+"74","The National","Reggae",41,74
+"75","Buke & Gase","Reggae",69,75
+"76","Black Lips","Rock",63,76
+"77","Jack Broadbent","Rock",62,77
+"78","Our Last Night","Electronic",28,78
+"79","Blessthefall","Metal",43,79
+"80","Your Life & Mine","Rap",44,80
+"81","New Volume","Hip-Hop",37,81
+"82","Cocaine Piss","Blues",44,82
+"83","Daniel Romano","Hip-Hop",29,83
+"84","Papa Roach","Rock",29,84
+"85","Ho99o9","Blues",61,85
+"86","Ana Moura","Pop",43,86
+"87","John Legend","Classical",60,87
+"88","Jack Savoretti","Jazz",20,88
+"89","Bush","Blues",31,89
+"90","RavenEye","Electronic",28,90
+"91","SALTO","Country",52,91
+"92","Ena p 2000","Country",47,92
+"93","Mastiksoul","Hip-Hop",36,93
+"94","Capito Fausto","Country",50,94
+"95","Valete","Rock",41,95
+"96","Tape Face","Electronic",67,96
+"97","O Cerco","Metal",20,97
+"98","Rimruna","Electronic",21,98
+"99","Violets","Rock",42,99
+"100","Mr. Miyagi","Rap",53,100
+"101","Ego","Reggae",66,101
+"102","Skank","Blues",50,102
+"103","Fergie","Rap",32,103
+"104","Kiasmos","Reggae",60,104
+"105","Casainhos Fest 2017: Devil In Me","Reggae",22,105
+"106","Blowfuse","Blues",57,106
+"107","Switchtense","Country",18,107
+"108","For The Glory","Hip-Hop",51,108
+"109","Grankapo","Rock",68,109
+"110","Destroyers Of All","Classical",26,110
+"111","Legacy Of Cynthia","Metal",23,111
+"112","Burned Blood","Reggae",32,112
+"113","Soul Of Anubis","Jazz",24,113
+"114","Ben Harper","Blues",36,114
+"115","Claptone","Rock",64,115
+"116","Ivete Sangalo","Jazz",41,116
+"117","Allah-Las","Classical",23,117
+"118","Luis Fonsi","Metal",27,118
+"119","Foster The People","Rock",26,119
+"120","James Vincent McMorrow","Country",64,120
+"121","Fatboy Slim","Metal",50,121
+"122","Deftones","Blues",32,122
+"123","Foster the People","Jazz",20,123
+"124","Seu Jorge","Pop",52,124
+"125","Black Bombaim","Hip-Hop",29,125
+"126","Seu Jorge plays The Life Aquatic: A Tribute to David Bowie","Classical",26,126
+"127","Sensible Soccers","Electronic",48,127
+"128","Super Bock Super Rock Festival: Tyler, The Creator","Country",22,128
+"129","London Grammar","Jazz",18,129
+"130","Lingua Franca","Electronic",30,130
+"131","Future","Classical",21,131
+"132","Akua Naru","Jazz",29,132
+"133","Pusha T","Classical",25,133
+"134","The Gift","Country",65,134
+"135","Boogarins","Reggae",30,135
+"136","Kevin Morby","Rock",23,136
+"137","TaxiWars","Country",34,137
+"138","The Orwells","Rap",33,138
+"139","Monki","Rock",36,139
+"140","Red Hot Chili Peppers","Pop",44,140
+"141","New Power Generation","Blues",31,141
+"142","Depeche Mode","Rock",34,142
+"143","Cage The Elephant","Classical",18,143
+"144","Imagine Dragons","Rap",43,144
+"145","Kodaline","Pop",35,145
+"146","Foo Fighters","Hip-Hop",24,146
+"147","The Kills","Blues",19,147
+"148","The Cult","Country",69,148
+"149","Courteeners","Rock",54,149
+"150","Tiago Bettencourt","Hip-Hop",26,150
+"151","The xx","Blues",41,151
+"152","Ryan Adams","Jazz",19,152
+"153","The Weeknd","Rap",64,153
+"154","alt-J","Blues",61,154
+"155","Phoenix","Classical",68,155
+"156","Deep Purple","Electronic",34,156
+"157","UHF","Rap",28,157
+"158","Woody Allen And His New Orleans Jazz Band","Hip-Hop",23,158
+"159","LaBaq","Blues",35,159
+"160","Surma","Rap",39,160
+"161","Aerosmith","Classical",21,161
+"162","Agnes Obel","Reggae",37,162
+"163","Antonio Zambujo","Country",45,163
+"164","Ariana Grande","Rap",35,164
+"165","Victoria Monet","Hip-Hop",60,165
+"166","Victoria Mont","Jazz",49,166
+"167","KnowleDJ","Electronic",42,167
+"168","Ricky Martin","Country",44,168
+"169","Antillectual","Hip-Hop",55,169
+"170","Escorraados","Blues",34,170
+"171","One Last Call","Electronic",40,171
+"172","Slayer","Classical",46,172
+"173","Rasgo","Country",32,173
+"174","FingerFingerrr","Jazz",62,174
+"175","INDIGNU","Electronic",27,175
+"176","Plcido Domingo","Rap",46,176
+"177","Shawn Mendes","Hip-Hop",47,177
+"178","James TW","Rap",64,178
+"179","Concerto Por Um Novo Futuro","Pop",27,179
+"180","Agir","Rock",68,180
+"181","Camane","Blues",66,181
+"182","Expensive Soul","Blues",57,182
+"183","Jos Gonzlez","Rock",52,183
+"184","Sam the Kid","Classical",23,184
+"185","Fausto","Jazz",24,185
+"186","Pharmakon","Electronic",54,186
+"187","Simple Minds","Blues",53,187
+"188","Placebo","Jazz",26,188
+"189","Matias Damasio","Pop",61,189
+"190","Snarky Puppy","Country",62,190
+"191","Raquel Tavares","Reggae",41,191
+"192","Emma Ruth Rundle","Pop",32,192
+"193","Roberto Carlos","Electronic",40,193
+"194","Festeja Lisboa","Pop",53,194
+"195","Marlia Mendona","Hip-Hop",61,195
+"196","Henrique & Juliano","Classical",40,196
+"197","Maiara e Maraisa","Hip-Hop",54,197
+"198","Ze Neto & Cristiano","Metal",18,198
+"199","Kleo Dibah & Rafael","Pop",27,199
+"200","Lukas Graham","Electronic",67,200
+"201","Hein Cooper","Metal",51,201
+"202","Postmodern Jukebox","Jazz",47,202
+"203","Scott Bradlee's Postmodern Jukebox","Electronic",60,203
+"204","Dave Matthews & Tim Reynolds","Blues",52,204
+"205","Woods","Rock",26,205
+"206","C4pedro","Electronic",18,206
+"207","Macy Gray","Rap",68,207
+"208","Bruno Mars","Metal",19,208
+"209","Anderson .Paak","Blues",67,209
+"210","Wolf Eyes","Electronic",29,210
+"211","Eddie Izzard","Reggae",52,211
+"212","Andrea Bocelli","Rock",27,212
+"213","Korn","Blues",68,213
+"214","Heaven Shall Burn","Country",70,214
+"215","Hellyeah","Metal",23,215
+"216","Battleme","Pop",19,216
+"217","Dirt Miles","Pop",44,217
+"218","You Me At Six","Reggae",59,218
+"219","Zanibar Aliens","Hip-Hop",66,219
+"220","Sonata Arctica","Rap",51,220
+"221","Striker","Reggae",45,221
+"222","Toy","Hip-Hop",20,222
+"223","Brad Mehldau","Metal",29,223
+"224","State Champs","Blues",25,224
+"225","As It Is","Metal",42,225
+"226","Nothington","Country",62,226
+"227","To All My Friends","Blues",28,227
+"228","Thievery Corporation","Hip-Hop",53,228
+"229","The Temper Trap","Hip-Hop",43,229
+"230","Skunk Anansie","Blues",27,230
+"231","The Pearl Harts","Metal",19,231
+"232","Jacob Whitesides","Reggae",40,232
+"233","Lene Lovich","Reggae",67,233
+"234","The Divine Comedy","Metal",41,234
+"235","OG Maco","Hip-Hop",48,235
+"236","Deolinda","Hip-Hop",40,236
+"237","Biffy Clyro","Rock",59,237
+"238","Frank Carter and the Rattlesnakes","Classical",20,238
+"239","Sum 41","Rock",32,239
+"240","Paerish","Blues",63,240
+"241","Perish","Jazz",45,241
+"242","Lambchop","Rock",68,242
+"243","Grimes","Hip-Hop",22,243
+"244","24K","Reggae",30,244
+"245","Diogo Piarra","Classical",44,245
+"246","Bom Marido","Hip-Hop",63,246
+"247","Gamaleo","Reggae",44,247
+"248","Elton John","Classical",54,248
+"249","Crystal Castles","Hip-Hop",57,249
+"250","James","Rock",36,250
+"251","Tony Carreira","Jazz",50,251
+"252","Crystal Fighters","Jazz",48,252
+"253","Justin Bieber","Jazz",34,253
+"254","The Knocks","Classical",64,254
+"255","Serushio","Reggae",21,255
+"256","The Cure","Classical",23,256
+"257","The Twilight Sad","Metal",57,257
+"258","Catfish Keith","Reggae",34,258
+"259","White Lies","Rock",36,259
+"260","Andrew Bird","Country",46,260
+"261","Cuca Roseta","Blues",69,261
+"262","Melanie Martinez","Electronic",22,262
+"263","Alvarez Kings","Metal",35,263
+"264","Djavan","Pop",32,264
+"265","Notontour","Rock",46,265
+"266","Viralata","Pop",54,266
+"267","Tarja Turunen","Reggae",59,267
+"268","SOJA","Rock",49,268
+"269","Moderat","Country",40,269
+"270","Fighter","Metal",26,270
+"271","Ana Carolina","Reggae",42,271
+"272","P.J. Harvey","Jazz",70,272
+"273","Thought Forms","Rock",19,273
+"274","PJ Harvey","Classical",44,274
+"275","Gold Panda","Rock",70,275
+"276","Behemoth","Blues",47,276
+"277","Mgla","Electronic",37,277
+"278","Secrets of the Moon","Rock",51,278
+"279","Sights & Sounds","Rap",28,279
+"280","Landscapes","Pop",24,280
+"281","Ash is a Robot","Hip-Hop",32,281
+"282","SHAPE","Rock",40,282
+"283","Crude","Rap",27,283
+"284","Moloch","Rock",35,284
+"285","D.A.M.A (PT)","Classical",64,285
+"286","Hills Have Eyes","Rap",49,286
+"287","Fortune Teller","Reggae",21,287
+"288","DJ Ride","Rap",31,288
+"289","Get Dead","Rock",48,289
+"290","Decreto 77","Pop",40,290
+"291","Albert Fish","Rap",58,291
+"292","Peter Murphy","Country",28,292
+"293","Fifth Harmony","Rap",66,293
+"294","Camryn","Rap",67,294
+"295","The Parrots","Country",22,295
+"296","Autoramas","Rap",44,296
+"297","The Agonist","Rap",38,297
+"298","Yann Tiersen","Jazz",42,298
+"299","Eliane Elias","Hip-Hop",36,299
+"300","Nothing","Hip-Hop",52,300
+"301","Nite Jewel","Jazz",28,301
+"302","Miguel Araujo","Metal",41,302
+"303","Brit Floyd","Hip-Hop",28,303
+"304","Abdullah Ibrahim","Metal",22,304
+"305","Bars and Melody","Rock",29,305
+"306","Then They Flew","Rap",57,306
+"307","Pop. 1280","Electronic",49,307
+"308","White Miles","Rap",18,308
+"309","Eagles of Death Metal","Hip-Hop",50,309
+"310","Kandia","Blues",69,310
+"311","Nightwish","Country",32,311
+"312","Caetano Veloso","Hip-Hop",27,312
+"313","Kaiser Chiefs","Rock",43,313
+"314","Dananananaykroyd","Reggae",38,314
+"315","Jambinai","Pop",63,315
+"316","Santana","Rap",33,316
+"317","Steve Vai","Classical",41,317
+"318","Diana Krall","Metal",52,318
+"319","Kendrick Lamar","Country",70,319
+"320","De La Soul","Rock",62,320
+"321","Orelha Negra","Blues",61,321
+"322","Massive Attack and Young Fathers","Rock",50,322
+"323","Bloc Party","Jazz",48,323
+"324","Super Bock Super Rock '16","Blues",42,324
+"325","Disclosure","Country",70,325
+"326","Super Bock Super Rock 2016","Pop",28,326
+"327","Damien Rice","Hip-Hop",43,327
+"328","Iron Maiden","Jazz",36,328
+"329","The Raven Age","Classical",54,329
+"330","Rod Stewart","Reggae",39,330
+"331","Herculee","Pop",61,331
+"332","""Globaile""","Electronic",25,332
+"333","Buraka Som Sistema","Jazz",23,333
+"334","Dengue Dengue Dengue!","Reggae",41,334
+"335","Rodrigo Amarante","Electronic",61,335
+"336","Scorpions","Rap",36,336
+"337","Pentatonix","Rap",34,337
+"338","ANOHNI","Rap",33,338
+"339","Moodymann","Rap",29,339
+"340","Marc Kinchen","Rap",37,340
+"341","Vahagn","Hip-Hop",23,341
+"342","Kaytranada","Rock",27,342
+"343","The Amity Affliction","Reggae",62,343
+"344","Death Remains","Classical",50,344
+"345","The Year","Blues",24,345
+"346","Il Divo","Electronic",26,346
+"347","SK6","Blues",45,347
+"348","Kamasi Washington","Classical",45,348
+"349","Benjamin Clementine","Classical",33,349
+"350","Steve Gunn","Classical",48,350
+"351","Mark Lanegan","Rock",40,351
+"352","Duke Garwood","Jazz",27,352
+"353","Expire","Rock",45,353
+"354","Cross Me","Reggae",42,354
+"355","PUSH!","Jazz",61,355
+"356","Adele","Metal",40,356
+"357","Bruce Springsteen & The E Street Band","Rock",48,357
+"358","Quinta-Feira 12","Blues",67,358
+"359","Rui Baeta","Pop",22,359
+"360","Jack and Jack","Rap",37,360
+"361","AC/DC","Reggae",52,361
+"362","Tyler Bryant And The Shakedown","Jazz",56,362
+"363","Tyler Bryant & the Shakedown","Jazz",58,363
+"364","Sick of It All","Classical",32,364
+"365","Muse","Reggae",70,365
+"366","De Staat","Electronic",30,366
+"367","Sound Bay Festival (Various artists)","Country",18,367
+"368","Gilberto Gil","Jazz",49,368
+"369","Rodrigo y Gabriela","Pop",25,369
+"370","Fitacola","Country",38,370
+"371","Meatbodies","Pop",48,371
+"372","Florence + the Machine","Classical",70,372
+"373","Gabriel Bruce","Rap",21,373
+"374","Kygo","Reggae",52,374
+"375","Lust for Youth","Metal",20,375
+"376","Sara Niemietz","Reggae",39,376
+"377","Fat Freddy's Drop","Jazz",58,377
+"378","Rodrigo Leo","Rock",24,378
+"379","The Autist","Hip-Hop",68,379
+"380","Kirk Knight","Jazz",25,380
+"381","Quinteto Lisboa","Rap",70,381
+"382","Linda Martini","Rock",52,382
+"383","Macklemore & Ryan Lewis","Rock",39,383
+"384","Macklemore","Classical",41,384
+"385","Ryan Lewis","Rap",24,385
+"386","Raury","Electronic",31,386
+"387","Black Mountain","Pop",43,387
+"388","Quentin Sirjacq","Pop",35,388
+"389","Arturo Sandoval","Reggae",42,389
+"390","Tricky","Country",39,390
+"391","The Soft Moon","Country",53,391
+"392","Baroness","Pop",66,392
+"393","Correia","Country",44,393
+"394","All Tvvins","Reggae",69,394
+"395","Urze de Lume","Jazz",39,395
+"396","rnica","Rock",40,396
+"397","Camerata Ophiussa","Rock",55,397
+"398","Boyce Avenue","Metal",35,398
+"399","Andreas Moe","Rock",30,399
+"400","Symphony X","Electronic",55,400
+"401","Buika","Electronic",40,401
+"402","Machine Head","Electronic",33,402
+"403","The Tallest Man On Earth","Jazz",39,403
+"404","Hinds","Reggae",70,404
+"405","Bryan Adams","Blues",67,405
+"406","Gabriel Ferrandini, Hernni Faustino e Pedro Sousa","Reggae",37,406
+"407","Hozier","Hip-Hop",47,407
+"408","Desidrio Lzaro","Blues",58,408
+"409","The Legendary Tigerman","Rock",48,409
+"410","FxPxM","Hip-Hop",45,410
+"411","From Kids To Heroes","Hip-Hop",20,411
+"412","Daisy & Surma","Hip-Hop",32,412
+"413","Billy Lobster","Blues",48,413
+"414","dEUS","Blues",21,414
+"415","Axwell ^ Ingrosso","Jazz",18,415
+"416","Xutos & Pontaps","Metal",38,416
+"417","Birds In Row","Electronic",57,417
+"418","Reality Slap","Country",54,418
+"419","A Thousand Words","Hip-Hop",30,419
+"420","Wank For Peace","Pop",67,420
+"421","Somber Rites","Blues",67,421
+"422","Enrique Iglesias","Reggae",36,422
+"423","Deez Nuts","Classical",25,423
+"424","Nasty","Country",49,424
+"425","Cold Burn","Classical",32,425
+"426","Louie Knuxx","Electronic",40,426
+"427","Dhafer Youssef","Rock",30,427
+"428","Anselmo Ralph","Rap",27,428
+"429","David Carreira","Blues",29,429
+"430","Ana Free","Hip-Hop",33,430
+"431","Joe Morris Quartet","Hip-Hop",53,431
+"432","Being As An Ocean","Reggae",36,432
+"433","The Voynich Code","Rock",63,433
+"434","Ghost","Blues",64,434
+"435","Dead Soul","Rap",33,435
+"436","Patrick Watson","Rock",39,436
+"437","Ariel Pink","Blues",26,437
+"438","Benjamin","Rap",36,438
+"439","Bombino","Rap",62,439
+"440","Da Chick","Metal",26,440
+"441","Ducktails","Metal",70,441
+"442","Jenny Hval","Rap",29,442
+"443","No Problem","Reggae",62,443
+"444","Peaches","Rock",67,444
+"445","Small Black","Blues",47,445
+"446","Seven Davis Jr.","Electronic",26,446
+"447","Babe Rainbow","Classical",54,447
+"448","Ricardo Toscano Quarteto","Country",25,448
+"449","Tremonti","Rock",32,449
+"450","Kurt Vile","Blues",22,450
+"451","Beach House","Blues",20,451
+"452","Lower Dens","Classical",18,452
+"453","Fear Factory","Classical",28,453
+"454","Once Human","Jazz",50,454
+"455","Dead Label","Hip-Hop",30,455
+"456","Black Star Riders","Classical",62,456
+"457","Unknown Mortal Orchestra","Reggae",36,457
+"458","Belle and Sebastian","Reggae",43,458
+"459","The Cinematic Orchestra","Metal",46,459
+"460","Thundercat","Rap",58,460
+"461","Miguel Atwood-Ferguson","Classical",33,461
+"462","Rui Veloso","Reggae",19,462
+"463","Le Butcherettes","Electronic",68,463
+"464","Maria Joo e Mrio Laginha","Classical",46,464
+"465","Apocalyptica","Metal",58,465
+"466","Tracer","Country",50,466
+"467","Zola Jesus","Hip-Hop",66,467
+"468","Iron & Wine","Blues",50,468
+"469","Cat Power","Rap",34,469
+"470","The Cat Empire","Country",65,470
+"471","The Pierce Brothers","Country",19,471
+"472","Riverside","Country",64,472
+"473","The SixxiS","Rap",26,473
+"474","Corrina Repp","Pop",68,474
+"475","Oy Division","Classical",42,475
+"476","Dave Matthews Band","Classical",70,476
+"477","John Pizzarelli","Rap",34,477
+"478","Orphaned Land","Jazz",59,478
+"479","The Stimmgewalt","Blues",19,479
+"480","Mollust","Country",30,480
+"481","Leaves","Metal",34,481
+"482","Caman","Rap",28,482
+"483","Dope Body","Reggae",56,483
+"484","Katy Perry","Blues",66,484
+"485","Patti Smith","Pop",60,485
+"486","R5","Rap",48,486
+"487","David Benoit","Jazz",39,487
+"488","Lionel Richie","Jazz",45,488
+"489","Orchestre Tout Puissant Marcel Duchamp","Metal",42,489
+"490","Super Bock Super Rock Festival","Rap",38,490
+"491","Florence & The Machine","Hip-Hop",66,491
+"492","Mundo Segundo & Sam The Kid","Hip-Hop",37,492
+"493","Sting","Jazz",70,493
+"494","Milky Chance","Rock",60,494
+"495","Noel Gallagher's High Flying Birds","Rock",42,495
+"496","The Vaccines","Pop",50,496
+"497","Suicide Silence","Classical",30,497
+"498","Cannibal Corpse","Country",42,498
+"499","CocoRosie","Classical",53,499
+"500","Chet Faker","Pop",65,500
+"501","Nick Murphy","Electronic",47,501
+"502","Olugbenga Metronomy Dj Set","Hip-Hop",20,502
+"503","X-Wife (DJ Set)","Jazz",29,503
+"504","Mobb Deep","Classical",65,504
+"505","Dakota Suite","Pop",34,505
+"506","Rocky Votolato","Rap",23,506
+"507","Sam Alone","Reggae",49,507
+"508","Forte Music Festival","Hip-Hop",53,508
+"509","Maroon 5","Electronic",24,509
+"510","Magic!","Rap",39,510
+"511","Jessie J","Reggae",38,511
+"512","TOA","Country",66,512
+"513","Elephant9","Rock",62,513
+"514","Joan Manuel Serrat","Classical",56,514
+"515","Julio Iglesias","Metal",50,515
+"516","Artigo 21","Blues",60,516
+"517","Rebels in Packages","Blues",57,517
+"518","Choque em Cadeia","Reggae",62,518
+"519","Busty Joe","Rap",24,519
+"520","Eneida Marta","Electronic",70,520
+"521","Vetiver","Electronic",33,521
+"522","Devendra Banhart","Jazz",48,522
+"523","Maria Bethania","Reggae",69,523
+"524","Marble Avenue","Rap",61,524
+"525","Maria Bethnia","Metal",21,525
