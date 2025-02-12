@@ -1,1 +1,11 @@
-This project was undertaken as the final project for the Data Engineering course of the MS Applied Data Science program at the University of Chicago. The goal is to create and store a dataset that enables prediction of hotel booking cancellations for a hotel in Lisbon based on weather, customer, and event data. Weather data is scraped using OpenWeather's public API in Juyter Notebook. Datasets are cleaned in R and dimensionally modeled in SQL. Visualizations are created in Tableau.
+# Hotel Bookings Database Development & Predictive Cancellation Modelling
+
+## Overview
+The objective of this project is to create and store a dataset that can be used to predict hotel booking cancellations for a hotel in Lisbon, utilizing data from multiple sources, including weather, customer, and events.
+
+## Contents
+- **Data Files**: Includes all compiled datasets used in the analysis.
+- **`clean.R`**: Scripts to clean, merge, and preprocess the datasets.
+- **`hm_dim_ddl.sql`**: Defines the schema and creates the fact and dimension tables for the dataset, including tables such as Bookings_Fact, Customers, Hotels, Weather, and Events.
+- **`hm_dim_ddl.sql`**: Loads cleaned data into the Snowflake schema using SQL INSERT INTO statements, ensuring that the data is properly populated in the respective tables.
+- **`Lisbon weather.ipynb`**: Scrapes weather using OpenWeather's public API in Juyter Notebook.
